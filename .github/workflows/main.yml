@@ -1,6 +1,6 @@
 name: Master
 on:
-  push: C:\Users\okuda\PycharmProjects\automationTest\main.py
+  push:
     branches:
       - master
   schedule:
